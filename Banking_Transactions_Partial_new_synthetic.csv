@@ -1,0 +1,11 @@
+TransactionID,AccountNumber,TransactionType,Amount,TransactionDate,BranchCode,Currency,TransactionTime,TransactionStatus,Channel,IsInternational,Fees,TransactionCategory,GeoLocation
+1,772134,Transfer,2029.197,2023-12-22 00:00:00,468,EUR,14,Pending,POS,Yes,1.7,Utility,"-30.2515,47.0464"
+2,589355,Payment,3078.708,2023-08-05 00:00:00,176,JPY,2,Reversed,Online Banking,No,4.9,Utility,"-2.4287,-76.7358"
+3,245554,Payment,7850.928,2023-02-01 00:00:00,193,GBP,17,Completed,ATM,No,0.9,Utility,"59.968,-37.6367"
+4,422527,Deposit,1982.717,2023-02-27 00:00:00,268,EUR,1,Failed,POS,Yes,1.2,Salary,"-79.5602,-140.3818"
+5,786649,Deposit,9364.666,2023-04-13 00:00:00,215,USD,18,Failed,Online Banking,Yes,3.1,Utility,"74.7828,118.9572"
+6,447306,Withdrawal,7422.04,2023-03-22 00:00:00,103,GBP,10,Failed,Branch,No,4.2,Shopping,"-78.3108,159.732"
+7,249401,Withdrawal,4231.968,2023-08-10 00:00:00,275,JPY,0,Reversed,ATM,No,4.6,Cash Withdrawal,"55.5643,-49.6986"
+8,364987,Withdrawal,947.473,2023-12-18 00:00:00,359,GBP,10,Completed,POS,No,4.2,Cash Withdrawal,"56.1709,43.605"
+9,369249,Withdrawal,7582.45,2023-09-14 00:00:00,495,USD,22,Failed,POS,No,0.1,Loan Payment,"-29.1972,-95.3269"
+10,623193,Withdrawal,463.752,2023-05-29 00:00:00,359,USD,7,Pending,Online Banking,No,2.1,Cash Withdrawal,"-42.715,-15.1145"
